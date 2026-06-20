@@ -1,0 +1,5 @@
+Experiment,L1 Skip,L2 Skip,L3 Skip,Test IoU,Test Dice,Test Loss
+Exp1_L1_only,✔,✘,✘,0.4285,0.5008,0.2811
+Exp2_L2_only,✘,✔,✘,0.46,0.5235,0.2296
+Exp3_L3_only,✘,✘,✔,0.355,0.3961,0.3223
+Exp4_All_skips,✔,✔,✔,0.441,0.5085,0.2583
